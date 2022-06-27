@@ -1,0 +1,98 @@
+[
+  {
+    "entities": {
+      "autores": {
+        "claudio@mail.com": {
+          "id": "claudio@mail.com",
+          "nombre": "claudio",
+          "apellido": "sabatucci",
+          "edad": "62",
+          "alias": "claudio62",
+          "avatar": "http://claudio62.com"
+        }
+      },
+      "chats": {
+        "misChats": {
+          "id": "misChats",
+          "autor": "claudio@mail.com",
+          "mensaje": "vvvvvvvvvvvvvvvv"
+        }
+      }
+    },
+    "result": "misChats",
+    "id": 1,
+    "timestamp": 1655941269303
+  },
+  {
+    "entities": {
+      "autores": {
+        "claudio@mail.com": {
+          "id": "claudio@mail.com",
+          "nombre": "claudio",
+          "apellido": "sabatucci",
+          "edad": "62",
+          "alias": "claudio62",
+          "avatar": "http://claudio62.com"
+        }
+      },
+      "chats": {
+        "misChats": {
+          "id": "misChats",
+          "autor": "claudio@mail.com",
+          "mensaje": "ssssssssssssss"
+        }
+      }
+    },
+    "result": "misChats",
+    "id": 2,
+    "timestamp": 1655941278602
+  },
+  {
+    "entities": {
+      "autores": {
+        "rogelio@mail.com": {
+          "id": "rogelio@mail.com",
+          "nombre": "claudio",
+          "apellido": "sabatucci",
+          "edad": "62",
+          "alias": "claudio62",
+          "avatar": "http://claudio62.com"
+        }
+      },
+      "chats": {
+        "misChats": {
+          "id": "misChats",
+          "autor": "rogelio@mail.com",
+          "mensaje": "rrrrrrrrrrrrrrrr"
+        }
+      }
+    },
+    "result": "misChats",
+    "id": 3,
+    "timestamp": 1655941312970
+  },
+  {
+    "entities": {
+      "autores": {
+        "claudio@mail.com": {
+          "id": "claudio@mail.com",
+          "nombre": "claudio",
+          "apellido": "sabatucci",
+          "edad": "62",
+          "alias": "claudio62",
+          "avatar": "http://claudio62.com"
+        }
+      },
+      "chats": {
+        "misChats": {
+          "id": "misChats",
+          "autor": "claudio@mail.com",
+          "mensaje": "jjjjjjjjjjjjjjj"
+        }
+      }
+    },
+    "result": "misChats",
+    "id": 4,
+    "timestamp": 1655941455012
+  }
+]
